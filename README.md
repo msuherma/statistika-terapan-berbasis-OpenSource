@@ -24,14 +24,17 @@ Website yang menarik untuk digunakan sebagai sumber belajar adalah:
 Buku yang dapat digunakan untuk sumber belajar saya urutkan berdasarkan tingkat kesulitan (mudah -> sulit), ialah sebagai berikut:
 
 1. [The Statistics and Calculus with Python Workshop, Farrel et al., 2020](https://learning.oreilly.com/library/view/the-statistics-and/9781800209763/)
-![](img/The-Statistics-and-Calculus-with-Python-Workshop.jpg)
+<img src="img/The-Statistics-and-Calculus-with-Python-Workshop.jpg" alt="The-Statistics-and-Calculus-with-Python-Workshop" style="width:250px;"/>
+
 2. [Practical Statistics for Data Scientists, 2nd Edition](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/)
-![](img/practical-statistics-for-data-scientists-2e-Bruce-Bruce-Gedeck.jpg)
+<img src="img/practical-statistics-for-data-scientists-2e-Bruce-Bruce-Gedeck.jpg" alt="practical-statistics-for-data-scientists-2e-Bruce-Bruce-Gedeck" style="width:250px;"/>
 3. [Bayesian Statistics the Fun Way](https://learning.oreilly.com/library/view/bayesian-statistics-the/9781098122492/#toc)
-![](img/bayesian-the-fun-way.jpg)
+<img src="img/bayesian-the-fun-way.jpg" alt="bayesian-the-fun-way" style="width:250px;"/>
+
 4. [Applied Statistics and Probability for Engineers, 5e, Montgomery, Runger](https://learning.oreilly.com/library/view/applied-statistics-and/9780470053041/)
 [>Datasets](https://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=5849&itemId=0470053046&resourceId=21602)
-![Applied Statistics and Probability for Engineers, 5e, Montgomery, Runger](img/Applied-Statistics-and-Probability-for-Engineers-5e.jpg)
+<img src="img/Applied-Statistics-and-Probability-for-Engineers-5e.jpg" alt="Applied-Statistics-and-Probability-for-Engineers-5e" style="width:250px;"/>
+
 
 
 ### 1.3 Notebook (`fileName.ipynb`)
